@@ -1,4 +1,4 @@
-package pl.myapp.myapp.spring.boot.controller;
+package pl.myapp.myapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class MyAppApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
