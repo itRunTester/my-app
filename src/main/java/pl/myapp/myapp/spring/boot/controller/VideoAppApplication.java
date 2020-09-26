@@ -1,4 +1,4 @@
-package pl.myapp.myapp;
+package pl.myapp.myapp.spring.boot.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class VideoAppApplication {
     public static void main(String[] args) {
         SpringApplication.run(VideoAppApplication.class, args);
     }
-
 }
